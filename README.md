@@ -20,92 +20,241 @@
 
 ## 🌷 About Me
 
-I'm **Purvi**, an Information Technology undergraduate at **SRM Institute of Science and Technology**, passionate about the intersection of **AI, Data Science, Data Analytics and Software Engineering**.
+I'm **Purvi**, an Information Technology undergraduate at
+**SRM Institute of Science and Technology**, passionate about the
+intersection of **AI, Data Science, Data Analytics and Software Engineering**.
 
-I enjoy transforming raw data into insights, building intelligent models, and turning those ideas into reliable applications and APIs.
+I enjoy transforming raw data into insights, building intelligent models,
+and turning those ideas into reliable applications and APIs.
 
 🎓 **B.Tech Information Technology** · CGPA **9.63/10**  
 💼 **AI/ML Intern @ L&T**  
 🛰️ **Software/ML Intern @ ORSAC**
 
-### ✿ What I work with
+### ✿ What I Work With
 
-| 🤖 AI / ML | 📊 Data Science | 📈 Data Analytics | 💻 Engineering |
-|---|---|---|---|
-| LLMs | Python | SQL | FastAPI |
-| Computer Vision | Pandas | Power BI | Flask |
-| Fraud Detection | NumPy | Excel | REST APIs |
-| AI Applications | Scikit-learn | DAX | Docker |
-| Predictive Models | Statistics | EDA | Databases |
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🤖
+**AI / ML**
+
+LLMs  
+Computer Vision  
+Fraud Detection  
+Predictive Models
+
+</td>
+
+<td width="25%" align="center">
+
+### 📊
+**Data Science**
+
+Python  
+Pandas  
+NumPy  
+Scikit-learn
+
+</td>
+
+<td width="25%" align="center">
+
+### 📈
+**Data Analytics**
+
+SQL  
+Power BI  
+Excel  
+DAX
+
+</td>
+
+<td width="25%" align="center">
+
+### 💻
+**Engineering**
+
+FastAPI  
+Flask  
+Docker  
+REST APIs
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🌸 Featured Projects
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://github.com/Purvii15/VeriSphere-Aadhaar-fraud-detection-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Purvii15&repo=VeriSphere-Aadhaar-fraud-detection-system&theme=transparent&title_color=8B6FAE&icon_color=D99AAE&text_color=555555&border_color=E8DCEC" />
-</a>
-
-<a href="https://github.com/Purvii15/GeoLLM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Purvii15&repo=GeoLLM&theme=transparent&title_color=8B6FAE&icon_color=D99AAE&text_color=555555&border_color=E8DCEC" />
-</a>
-
-<a href="https://github.com/Purvii15/Sahayak-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Purvii15&repo=Sahayak-AI&theme=transparent&title_color=8B6FAE&icon_color=D99AAE&text_color=555555&border_color=E8DCEC" />
-</a>
-
-</div>
+<td width="50%">
 
 ### 🛡️ VeriSphere
+
 **AI-powered identity verification & fraud detection**
 
-`Python` `YOLOv8` `OCR` `Machine Learning` `Flask`
+`Python` `YOLOv8` `OCR` `ML` `Flask`
 
----
+A modular verification pipeline combining OCR,
+QR validation, document analysis and anomaly detection.
+
+<br>
+
+<a href="https://github.com/Purvii15/VeriSphere-Aadhaar-fraud-detection-system">
+<img src="https://img.shields.io/badge/View%20Project-C8A2C8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 🌍 GeoLLM Odisha
-**Geospatial AI platform for natural-language querying of spatial data**
 
-`Python` `GIS` `Google Earth Engine` `LLMs` `Flask`
+**Geospatial AI & natural-language querying**
 
----
+`Python` `GIS` `LLMs` `Google Earth Engine` `Flask`
+
+A platform combining geospatial datasets and
+natural-language queries for spatial analysis.
+
+<br>
+
+<a href="https://github.com/Purvii15/GeoLLM">
+<img src="https://img.shields.io/badge/View%20Project-D8BFD8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🌊 Sahayak AI
-**Agentic AI system for disaster-response intelligence**
+
+**Agentic AI for disaster response**
 
 `Python` `FastAPI` `Agentic AI` `IBM Granite`
+
+An AI-driven system designed to combine weather
+information, alerts and intelligent recommendations.
+
+<br>
+
+<a href="https://github.com/Purvii15/Sahayak-AI">
+<img src="https://img.shields.io/badge/View%20Project-E8A9B8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Analytics
+
+**Turning raw data into actionable insights**
+
+`Python` `SQL` `Power BI` `Excel` `Scikit-learn`
+
+Exploring business trends, customer behavior,
+KPIs, predictive models and data-driven decisions.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 📊 Data Science & Analytics
 
-I enjoy going beyond model-building to understand **what the data is actually saying**.
-
-### 🔎 Core areas
-
-`Exploratory Data Analysis` · `Data Cleaning` · `Data Validation`  
-`Statistical Analysis` · `Feature Engineering` · `Predictive Modeling`  
-`Trend Analysis` · `Root Cause Analysis` · `Data Visualization`  
-`Dashboard Development` · `KPI Reporting` · `Business Intelligence`
-
-### 📈 Analytics Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=333333"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logoColor=white"/>
+### 🔎 From raw data → insights → decisions
 
 </div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧹 Data Preparation
+
+- Data Cleaning
+- Data Validation
+- Data Preprocessing
+- Feature Engineering
+
+</td>
+
+<td width="50%">
+
+### 🔍 Data Exploration
+
+- Exploratory Data Analysis
+- Trend Analysis
+- Statistical Analysis
+- Root Cause Analysis
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Modeling
+
+- Predictive Modeling
+- Classification
+- Feature Engineering
+- Scikit-learn
+
+</td>
+
+<td width="50%">
+
+### 📈 Visualization
+
+- Power BI
+- Excel
+- Matplotlib
+- Seaborn
+- Dashboard Development
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗃️ Data
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- MySQL
+- PostgreSQL
+
+</td>
+
+<td width="50%">
+
+### 💡 Business Analytics
+
+- KPI Reporting
+- Business Intelligence
+- Data Storytelling
+- Decision Support
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -114,16 +263,38 @@ I enjoy going beyond model-building to understand **what the data is actually sa
 <div align="center">
 
 ### Languages
+
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 
+<br><br>
+
 ### AI / Machine Learning
+
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-### Backend & Cloud
+<br><br>
+
+### Backend & Development
+
 <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github" />
 
+<br><br>
+
 ### Databases
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+<br><br>
+
+### Data Science & Analytics
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=333333"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Weaviate-6B4EFF?style=flat-square&logoColor=white"/>
 
 </div>
 
@@ -132,14 +303,46 @@ I enjoy going beyond model-building to understand **what the data is actually sa
 # 💼 Experience
 
 ### 🌸 L&T — AI/ML Intern
+
 **Jul 2026 – Present**
 
-Building backend and AI/data workflows using **Python, FastAPI, Docker and Weaviate**, including document ingestion, embeddings, vector storage and semantic retrieval.
+Working with **Python, FastAPI, Docker and Weaviate** to build
+REST APIs and AI/data workflows involving document ingestion,
+embeddings, vector storage and semantic retrieval.
 
-### 🛰️ Odisha Space Applications Centre — Software/ML Intern
+### 🛰️ Odisha Space Applications Centre — Software / ML Intern
+
 **Jun 2025 – Jul 2025**
 
-Worked with **geospatial and satellite datasets**, Python data pipelines, preprocessing, feature engineering and automated thematic-map generation.
+Worked with **geospatial and satellite datasets**, Python data
+pipelines, preprocessing, feature engineering and automated
+thematic-map generation.
+
+---
+
+# 🌍 Areas of Interest
+
+<div align="center">
+
+🌷 **Artificial Intelligence**
+
+✦
+
+📊 **Data Science**
+
+✦
+
+📈 **Data Analytics**
+
+✦
+
+💻 **Software Engineering**
+
+✦
+
+🌍 **Geospatial AI**
+
+</div>
 
 ---
 
@@ -147,15 +350,13 @@ Worked with **geospatial and satellite datasets**, Python data pipelines, prepro
 
 <div align="center">
 
-🌷 **9.63 / 10 CGPA**
-
-🏆 **IndiaAI Impact GenAI Hackathon — Finalist**
-
-🥈 **NPTEL — Big Data Computing Silver Medal**
-
-🥇 **1st Prize — National Science Day Oral Presentation**
-
-🎤 **Top 24 — Speak for India**
+| Achievement | |
+|---|---|
+| 🎓 | **9.63 / 10 CGPA** |
+| 🏆 | **IndiaAI Impact GenAI Hackathon — Finalist** |
+| 🥈 | **NPTEL — Big Data Computing Silver Medal** |
+| 🥇 | **1st Prize — National Science Day Oral Presentation** |
+| 🎤 | **Top 24 — Speak for India** |
 
 </div>
 
@@ -163,10 +364,10 @@ Worked with **geospatial and satellite datasets**, Python data pipelines, prepro
 
 # 📜 Certifications
 
-- **Supervised Machine Learning** — Stanford University
-- **Big Data Computing** — NPTEL
-- **Microsoft Fabric SQL**
-- **Computer Architecture** — NPTEL
+- 🎓 **Supervised Machine Learning** — Stanford University
+- 📊 **Big Data Computing** — NPTEL
+- ☁️ **Microsoft Fabric SQL**
+- 💻 **Computer Architecture** — NPTEL
 
 ---
 
@@ -174,9 +375,27 @@ Worked with **geospatial and satellite datasets**, Python data pipelines, prepro
 
 <div align="center">
 
-`AI Agents` ✦ `LLM Applications` ✦ `Data Engineering`
+`AI Agents`
 
-`MLOps` ✦ `Scalable AI Systems` ✦ `Advanced Analytics`
+✦
+
+`LLM Applications`
+
+✦
+
+`Data Engineering`
+
+<br>
+
+`MLOps`
+
+✦
+
+`Scalable AI Systems`
+
+✦
+
+`Advanced Analytics`
 
 </div>
 
@@ -184,27 +403,31 @@ Worked with **geospatial and satellite datasets**, Python data pipelines, prepro
 
 # 🌿 Beyond Code
 
-When I'm not building things with data, you'll probably find me:
-
-**Bharatanatyam** · **Music** · **Nature** · **Learning new things**
-
----
-
-## ✦ GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Purvii15&show_icons=true&hide_border=true&title_color=8B6FAE&icon_color=D99AAE&text_color=555555&bg_color=ffffff" height="170"/>
+🌸 **Bharatanatyam**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Purvii15&hide_border=true&ring=8B6FAE&fire=D99AAE&currStreakLabel=8B6FAE" height="170"/>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+
+🎶 **Music**
+
+&nbsp;&nbsp;·&nbsp;&nbsp;
+
+🌿 **Nature**
+
+&nbsp;&nbsp;·&nbsp;&nbsp;
+
+📚 **Learning**
+
+<br><br>
+
+### ✿ build · learn · create · repeat ✿
 
 </div>
 
-<br>
+---
 
 <div align="center">
-
-### 🌷 *build · learn · create · repeat* 🌷
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=12,20,24" width="100%"/>
 
