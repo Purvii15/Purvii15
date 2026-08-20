@@ -1,133 +1,147 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Purvi Mohanty banner"/>
+# 🌷 Hi, I'm Purvi!
 
-<br/>
+### AI/ML • Data Science • Data Analytics • Software Engineering
 
-<a href="https://github.com/purvimohanty">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=22&duration=3000&pause=1000&color=C9A3D6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Purvi+%F0%9F%8C%B7;AI%2FML+Engineer+%7C+Data+Scientist+%7C+Backend+Developer;Turning+data+into+decisions%2C+one+model+at+a+time;Currently+building+a+700K-record+search+engine+at+L%26T" alt="Typing SVG" />
-</a>
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="220">
 
-<img src="https://raw.githubusercontent.com/Prince-Shivaram/Prince-Shivaram/master/hello.gif" width="70"/>
+*turning data, ideas & curiosity into intelligent solutions* ✨
 
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td width="60%" valign="top">
-
-🌙 about me
-
-I'm Purvi, an Information Technology undergraduate at SRM Institute of Science and Technology, passionate about the intersection of AI, Data Science, Data Analytics and Software Engineering.
-
-🔭 Currently building a natural-language inventory search system (FastAPI + Weaviate) as an AI/ML Intern at L&T
-
-🌱 Currently exploring AI Agents, LLM Applications, MLOps and Scalable AI Systems
-
-🎯 CGPA 9.63/10 · IndiaAI Impact GenAI Hackathon Finalist · NPTEL Big Data Computing Silver Medal
-
-💌 Reach me at purvimohanty2503@gmail.com
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/Prince-Shivaram/Prince-Shivaram/master/My-work.gif" width="260"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-🔗 connect
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C9A3D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvi-mohanty/)
+[![GitHub](https://img.shields.io/badge/GitHub-8A5F82?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Purvii15)
+[![Email](https://img.shields.io/badge/Email-D9A5A0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purvimohanty2503@gmail.com)
 
 </div>
 
-<br/>
+---
 
-🛠️ tech stack
+## 🌸 About Me
+
+I'm **Purvi**, an Information Technology undergraduate at **SRM Institute of Science and Technology**, interested in building solutions at the intersection of **AI, Data Science, Data Analytics and Software Engineering**.
+
+- 💼 Currently working as an **AI/ML Intern at L&T**
+- 🛰️ Previously worked with **geospatial & satellite data at ORSAC**
+- 📊 Passionate about **Data Science, Analytics & Machine Learning**
+- 🤖 Interested in **LLMs, AI Agents & intelligent applications**
+- 💻 I enjoy building **APIs, data pipelines and backend systems**
+- 🎓 **CGPA: 9.63/10**
+
+---
+
+## 🔭 Currently Working On
+
+**AI/ML systems involving document ingestion, vector databases,
+embeddings and semantic search.**
+
+## 🌱 Currently Learning
+
+`AI Agents` · `LLM Applications` · `Data Engineering` · `MLOps`
+
+## 💬 Ask Me About
+
+`Python` · `SQL` · `Data Science` · `Machine Learning`
+· `Power BI` · `Geospatial AI`
+
+---
+
+# 🛠️ Technologies & Tools
 
 <div align="center">
 
+### 💻 Languages
 
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 
+### 📊 Data Science & Analytics
 
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
+### 🤖 AI / ML
 
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
+### ⚙️ Backend & Tools
 
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github" />
 
+### 🗄️ Databases
 
-
-
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
 </div>
 
-<br/>
+---
 
-🦋 featured projects
+# 🦋 Featured Projects
+
+### 🛡️ VeriSphere
+**AI-powered identity verification & fraud detection**
+
+`Python` `YOLOv8` `OCR` `Machine Learning` `Flask`
+
+[View Project →](https://github.com/Purvii15/VeriSphere-Aadhaar-fraud-detection-system)
+
+---
+
+### 🌍 GeoLLM Odisha
+**Geospatial AI & natural-language querying**
+
+`Python` `GIS` `LLMs` `Google Earth Engine` `Flask`
+
+[View Project →](https://github.com/Purvii15/GeoLLM)
+
+---
+
+### 🌊 Sahayak AI
+**Agentic AI for disaster response**
+
+`Python` `FastAPI` `IBM Granite` `Agentic AI`
+
+[View Project →](https://github.com/Purvii15/Sahayak-AI)
+
+---
+
+### 📈 Data Science & Analytics
+
+Exploring **EDA, SQL analysis, predictive modeling,
+feature engineering, dashboards and business intelligence.**
+
+---
+
+# 🏆 Achievements
+
+- 🏆 **IndiaAI Impact GenAI Hackathon — Finalist**
+- 🥈 **NPTEL Silver Medal — Big Data Computing**
+- 🥇 **1st Prize — National Science Day Oral Presentation**
+- 🎤 **Top 24 — Speak for India**
+- 🎓 **9.63 / 10 CGPA**
+
+---
+
+# 🌿 Beyond Code
+
+When I'm not coding, you'll probably find me:
+
+💃 Practicing **Bharatanatyam**  
+🎶 Listening to **music**  
+🌿 Exploring **nature**  
+📚 Learning something new
+
+---
 
 <div align="center">
 
+### 🌷 Let's build something meaningful.
 
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-C9A3D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvi-mohanty/)
 
+<br>
 
-
-
-
-</div>
-
-<br/>
-
-📊 github stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=purvimohanty&show_icons=true&theme=dark&bg_color=1A1F4D&title_color=C9A3D6&text_color=D9B8CF&icon_color=E6C9E8&border_color=8A5F82&hide_border=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=purvimohanty&theme=dark&background=1A1F4D&stroke=8A5F82&ring=C9A3D6&fire=D9A5A0&currStreakLabel=D9B8CF&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvimohanty&layout=compact&theme=dark&bg_color=1A1F4D&title_color=C9A3D6&text_color=D9B8CF&border_color=8A5F82&hide_border=true"/>
-
-</div>
-
-<br/>
-
-🏆 trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=purvimohanty&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&title=Commits,Stars,PullRequest,Repositories,Followers,Experience"/>
-
-</div>
-
-<br/>
-
-🐍 contribution snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/purvimohanty/purvimohanty/output/snake.svg"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-learn • grow • inspire
-
-<img src="https://komarev.com/ghpvc/?username=purvimohanty&style=flat-square&color=8a5f82" alt="profile views"/>
-
-<img src="assets/banner-footer.svg" width="100%"/>
+*learn • grow • inspire* 🦋
 
 </div>
