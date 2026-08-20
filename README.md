@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Purvi Mohanty"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=26&duration=3000&pause=1000&color=C9A3D6&center=true&vCenter=true&width=850&height=70&lines=Hi+there%2C+I'm+Purvi+%F0%9F%8C%B7;AI%2FML+Engineer+%7C+Data+Scientist+%7C+Backend+Developer;AI%2FML+%7C+Data+Science+%7C+Data+Analytics;Turning+data+into+decisions%2C+one+model+at+a+time;Building+intelligent+systems+%26+data-driven+solutions" alt="Typing SVG"/>
+
+### AI/ML • Data Science • Data Analytics • Software Engineering
+
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="220" alt="SpongeBob waving"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=22&duration=3000&pause=1000&color=C9A3D6&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Purvi+%F0%9F%8C%B7;AI%2FML+%7C+Data+Scientist+%7C+Backend+Developer;AI%2FML+%7C+Data+Science+%7C+Data+Analytics;Turning+data+into+decisions%2C+one+model+at+a+time;Building+intelligent+systems+%26+data-driven+solutions" alt="Typing SVG"/>
+*turning data, ideas & curiosity into intelligent solutions* ✨
 
 <br/>
 
@@ -14,63 +18,50 @@
 
 </div>
 
-<br/>
+---
 
-<table>
-<tr>
+## 🌸 About Me
 
-<td width="65%" valign="top">
+I'm **Purvi**, an Information Technology undergraduate at **SRM Institute of Science and Technology**, interested in building solutions at the intersection of **AI, Data Science, Data Analytics and Software Engineering**.
 
-## 🌙 about me
-
-I'm **Purvi**, an Information Technology undergraduate at
-**SRM Institute of Science and Technology**, passionate about the
-intersection of **AI, Data Science, Data Analytics and Software Engineering**.
-
-- 🔭 Currently building AI/data systems at **L&T**
-- 🌱 Exploring **AI Agents, LLM Applications, Data Engineering & MLOps**
-- 📊 Interested in **Data Science, Analytics & Machine Learning**
+- 💼 Currently working as an **AI/ML Intern at L&T**
 - 🛰️ Previously worked with **geospatial & satellite data at ORSAC**
-- 💻 I enjoy building **APIs, data pipelines and intelligent applications**
+- 📊 Passionate about **Data Science, Analytics & Machine Learning**
+- 🤖 Interested in **LLMs, AI Agents & intelligent applications**
+- 💻 I enjoy building **APIs, data pipelines and backend systems**
 - 🎓 **CGPA: 9.63/10**
-- 🏆 **IndiaAI Impact GenAI Hackathon Finalist**
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="./cat.gif" width="200" alt="Cute coding cat"/>
-
-<br/><br/>
-
-<sub>coding, learning & probably debugging 🐾</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
 
 ---
 
-## 🔭 currently working on
+## 🔭 Currently Working On
 
 **AI/ML systems involving document ingestion, vector databases,
 embeddings and semantic search.**
 
-## 🌱 currently learning
+## 🌱 Currently Learning
 
 `AI Agents` · `LLM Applications` · `Data Engineering` · `MLOps`
 
-## 💬 ask me about
+## 💬 Ask Me About
 
 `Python` · `SQL` · `Data Science` · `Machine Learning`
 · `Power BI` · `Geospatial AI`
 
+<br/>
+
+<div align="center">
+
+<img src="./cat.gif" width="120" alt="Cute cat"/>
+
+<br/>
+
+<sub>taking tiny coding breaks 🐾</sub>
+
+</div>
+
 ---
 
-# 🛠️ technologies & tools
+# 🛠️ Technologies & Tools
 
 <div align="center">
 
@@ -87,23 +78,22 @@ embeddings and semantic search.**
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logoColor=white"/>
 
 <br/><br/>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI / ML
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
 <br/><br/>
 
-### ⚙️ Backend & Development
+### ⚙️ Backend & Tools
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github" />
 
 <br/><br/>
 
-### 🗄️ Databases & Data Systems
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
@@ -116,12 +106,7 @@ embeddings and semantic search.**
 
 ---
 
-# 🌸 featured projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
+# 🦋 Featured Projects
 
 ### 🛡️ VeriSphere
 
@@ -129,18 +114,9 @@ embeddings and semantic search.**
 
 `Python` `YOLOv8` `OCR` `Machine Learning` `Flask`
 
-A modular verification pipeline combining document
-parsing, OCR, QR validation and anomaly detection.
+[View Project →](https://github.com/Purvii15/VeriSphere-Aadhaar-fraud-detection-system)
 
-<br/>
-
-<a href="https://github.com/Purvii15/VeriSphere-Aadhaar-fraud-detection-system">
-<img src="https://img.shields.io/badge/View%20Project-C9A3D6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🌍 GeoLLM Odisha
 
@@ -148,22 +124,9 @@ parsing, OCR, QR validation and anomaly detection.
 
 `Python` `GIS` `LLMs` `Google Earth Engine` `Flask`
 
-A platform combining geospatial datasets with
-natural-language querying for spatial analysis.
+[View Project →](https://github.com/Purvii15/GeoLLM)
 
-<br/>
-
-<a href="https://github.com/Purvii15/GeoLLM">
-<img src="https://img.shields.io/badge/View%20Project-8A5F82?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ### 🌊 Sahayak AI
 
@@ -171,231 +134,66 @@ natural-language querying for spatial analysis.
 
 `Python` `FastAPI` `IBM Granite` `Agentic AI`
 
-An AI-driven system combining weather information,
-alerts and intelligent recommendations.
-
-<br/>
-
-<a href="https://github.com/Purvii15/Sahayak-AI">
-<img src="https://img.shields.io/badge/View%20Project-D9A5A0?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 CacheFlow
-
-**High-performance caching proxy server**
-
-`Python` `Backend Systems` `LRU Cache`
-
-A backend system designed to reduce redundant API
-requests and improve request-handling efficiency.
-
-<br/>
-
-<a href="https://github.com/Purvii15/CacheFlow">
-<img src="https://img.shields.io/badge/View%20Project-B89CC9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+[View Project →](https://github.com/Purvii15/Sahayak-AI)
 
 ---
 
-# 📊 data science & analytics
+### 📈 Data Science & Analytics
 
-<div align="center">
-
-### turning raw data → insights → decisions
-
-</div>
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🔎 Data Analysis
-
-- Exploratory Data Analysis
-- Data Cleaning & Validation
-- Statistical Analysis
-- Trend Analysis
-- Root Cause Analysis
-
-</td>
-
-<td width="50%">
-
-### 🤖 Data Science
-
-- Feature Engineering
-- Predictive Modeling
-- Classification
-- Anomaly Detection
-- Machine Learning
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📈 Visualization
-
-- Power BI
-- Excel
-- Matplotlib
-- Seaborn
-- Dashboard Development
-
-</td>
-
-<td width="50%">
-
-### 🗃️ Data
-
-- Python
-- SQL
-- Pandas
-- NumPy
-- MySQL
-- PostgreSQL
-
-</td>
-
-</tr>
-</table>
+Exploring **EDA, SQL analysis, predictive modeling,
+feature engineering, dashboards and business intelligence.**
 
 ---
 
-# 💼 experience
+# 💼 Experience
 
 ### 🌸 L&T — AI/ML Intern
 
 **Jul 2026 – Present**
 
-Working with **Python, FastAPI, Docker and Weaviate** to build
-REST APIs and AI/data workflows involving document ingestion,
-embeddings, vector storage and semantic retrieval.
+Building AI/data workflows involving **Python, FastAPI, Docker and Weaviate**, including document ingestion, embeddings, vector storage and semantic retrieval.
 
 ### 🛰️ Odisha Space Applications Centre — Software / ML Intern
 
 **Jun 2025 – Jul 2025**
 
-Worked with **geospatial and satellite datasets**, Python data
-pipelines, preprocessing, feature engineering and automated
-thematic-map generation.
+Worked with **geospatial and satellite datasets**, Python data pipelines, preprocessing, feature engineering and automated thematic-map generation.
 
 ---
 
-# 🏆 achievements
+# 🏆 Achievements
 
-<div align="center">
-
-🌷 **9.63 / 10 CGPA**
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-🏆 **IndiaAI Impact GenAI Hackathon — Finalist**
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-🥈 **NPTEL — Big Data Computing Silver Medal**
-
-<br/><br/>
-
-🥇 **1st Prize — National Science Day Oral Presentation**
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-🎤 **Top 24 — Speak for India**
-
-</div>
+- 🏆 **IndiaAI Impact GenAI Hackathon — Finalist**
+- 🥈 **NPTEL Silver Medal — Big Data Computing**
+- 🥇 **1st Prize — National Science Day Oral Presentation**
+- 🎤 **Top 24 — Speak for India**
+- 🎓 **9.63 / 10 CGPA**
 
 ---
 
-# 📜 certifications
+# 🌿 Beyond Code
 
-- 🎓 **Supervised Machine Learning** — Stanford University
-- 📊 **Big Data Computing** — NPTEL
-- ☁️ **Microsoft Fabric SQL**
-- 💻 **Computer Architecture** — NPTEL
+When I'm not coding, you'll probably find me:
 
----
-
-# 🌱 currently exploring
-
-<div align="center">
-
-`AI Agents`
-
-✦
-
-`LLM Applications`
-
-✦
-
-`Data Engineering`
+💃 Practicing **Bharatanatyam**  
+🎶 Listening to **music**  
+🌿 Exploring **nature**  
+📚 Learning something new
 
 <br/>
 
-`MLOps`
-
-✦
-
-`Scalable AI Systems`
-
-✦
-
-`Advanced Analytics`
-
-</div>
-
----
-
-# 🌿 beyond code
-
 <div align="center">
 
-💃 **Bharatanatyam**
-
-&nbsp;&nbsp;·&nbsp;&nbsp;
-
-🎶 **Music**
-
-&nbsp;&nbsp;·&nbsp;&nbsp;
-
-🌿 **Nature**
-
-&nbsp;&nbsp;·&nbsp;&nbsp;
-
-📚 **Learning**
-
-<br/><br/>
-
-<sub>probably thinking about my next project while doing all of the above ☕</sub>
-
-</div>
-
----
-
-<div align="center">
+<img src="https://raw.githubusercontent.com/Prince-Shivaram/Prince-Shivaram/master/hello.gif" width="60" alt="Hello"/>
 
 <br/>
 
-### 🦋 let's build something meaningful
+### 🌷 Let's build something meaningful.
+
+*learn • grow • inspire* 🦋
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-C9A3D6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvi-mohanty/)
-
-<br/><br/>
-
-*learn • grow • inspire* 🌷
 
 </div>
