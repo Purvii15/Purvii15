@@ -4,7 +4,7 @@
 
 ### AI/ML • Data Science • Data Analytics • Software Engineering
 
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="220" alt="SpongeBob waving"/>
+<img src="./pikachu.gif" width="100" alt="Pikachu"/>
 
 <br/>
 
@@ -22,36 +22,36 @@
 
 ## 🌸 About Me
 
-I'm **Purvi**, an Information Technology undergraduate at **SRM Institute of Science and Technology**, interested in building solutions at the intersection of **AI, Data Science, Data Analytics and Software Engineering**.
+<table>
+<tr>
 
-- 💼 Currently working as an **AI/ML Intern at L&T**
-- 🛰️ Previously worked with **geospatial & satellite data at ORSAC**
-- 📊 Passionate about **Data Science, Analytics & Machine Learning**
-- 🤖 Interested in **LLMs, AI Agents & intelligent applications**
-- 💻 I enjoy building **APIs, data pipelines and backend systems**
+<td width="70%" valign="top">
+
+I'm **Purvi**, an Information Technology undergraduate at **SRM Institute of Science and Technology**, interested in building practical solutions across **AI, Data Science, Analytics and Software Engineering**.
+
+- 💼 **AI/ML Intern @ L&T**
+- 🛰️ Previously worked with **geospatial & satellite data @ ORSAC**
+- 🤖 Interested in **LLMs, AI Agents & intelligent systems**
+- 📊 Enjoy **data analysis, machine learning & visualization**
+- 💻 Build with **Python, SQL, APIs & backend systems**
 - 🎓 **CGPA: 9.63/10**
 
----
+</td>
 
-## 🔭 Currently Working On
+<td width="30%" align="center" valign="middle">
 
-**AI/ML systems involving document ingestion, vector databases,
-embeddings and semantic search.**
+<img src="./girl-coding.gif" width="190" alt="Girl coding"/>
 
-## 🌱 Currently Learning
+</td>
 
-`AI Agents` · `LLM Applications` · `Data Engineering` · `MLOps`
-
-## 💬 Ask Me About
-
-`Python` · `SQL` · `Data Science` · `Machine Learning`
-· `Power BI` · `Geospatial AI`
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
 
-<img src="./cat.gif" width="120" alt="Cute cat"/>
+<img src="./cat.gif" width="110" alt="Cute cat"/>
 
 <br/>
 
@@ -61,43 +61,39 @@ embeddings and semantic search.**
 
 ---
 
-# 🛠️ Technologies & Tools
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql"/>
 
 <br/><br/>
 
-### 📊 Data Science & Analytics
+**AI / Data Science**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+<br/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 <br/><br/>
 
-### 🤖 AI / ML
+**Backend / Tools**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-<br/><br/>
-
-### ⚙️ Backend & Tools
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github"/>
 
 <br/><br/>
 
-### 🗄️ Databases
+**Data Systems**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Weaviate-6B4EFF?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white"/>
@@ -109,7 +105,6 @@ embeddings and semantic search.**
 # 🦋 Featured Projects
 
 ### 🛡️ VeriSphere
-
 **AI-powered identity verification & fraud detection**
 
 `Python` `YOLOv8` `OCR` `Machine Learning` `Flask`
@@ -119,18 +114,16 @@ embeddings and semantic search.**
 ---
 
 ### 🌍 GeoLLM Odisha
+**Geospatial AI for natural-language querying of spatial data**
 
-**Geospatial AI & natural-language querying**
-
-`Python` `GIS` `LLMs` `Google Earth Engine` `Flask`
+`Python` `GIS` `LLMs` `Google Earth Engine`
 
 [View Project →](https://github.com/Purvii15/GeoLLM)
 
 ---
 
 ### 🌊 Sahayak AI
-
-**Agentic AI for disaster response**
+**Agentic AI for disaster-response intelligence**
 
 `Python` `FastAPI` `IBM Granite` `Agentic AI`
 
@@ -138,53 +131,35 @@ embeddings and semantic search.**
 
 ---
 
-### 📈 Data Science & Analytics
-
-Exploring **EDA, SQL analysis, predictive modeling,
-feature engineering, dashboards and business intelligence.**
-
----
-
 # 💼 Experience
 
 ### 🌸 L&T — AI/ML Intern
+Building AI/data workflows with **Python, FastAPI, Docker and Weaviate**, focused on document ingestion, embeddings, vector search and natural-language retrieval.
 
-**Jul 2026 – Present**
-
-Building AI/data workflows involving **Python, FastAPI, Docker and Weaviate**, including document ingestion, embeddings, vector storage and semantic retrieval.
-
-### 🛰️ Odisha Space Applications Centre — Software / ML Intern
-
-**Jun 2025 – Jul 2025**
-
-Worked with **geospatial and satellite datasets**, Python data pipelines, preprocessing, feature engineering and automated thematic-map generation.
+### 🛰️ Odisha Space Applications Centre — ML / Software Intern
+Worked with **geospatial and satellite data**, preprocessing, feature engineering and automated thematic-map generation.
 
 ---
 
 # 🏆 Achievements
 
-- 🏆 **IndiaAI Impact GenAI Hackathon — Finalist**
-- 🥈 **NPTEL Silver Medal — Big Data Computing**
-- 🥇 **1st Prize — National Science Day Oral Presentation**
-- 🎤 **Top 24 — Speak for India**
-- 🎓 **9.63 / 10 CGPA**
+🏆 **IndiaAI Impact GenAI Hackathon — Finalist**  
+🥈 **NPTEL Silver Medal — Big Data Computing**  
+🥇 **1st Prize — National Science Day Oral Presentation**  
+🎤 **Top 24 — Speak for India**  
+🎓 **9.63 / 10 CGPA**
 
 ---
 
 # 🌿 Beyond Code
 
-When I'm not coding, you'll probably find me:
-
-💃 Practicing **Bharatanatyam**  
-🎶 Listening to **music**  
-🌿 Exploring **nature**  
-📚 Learning something new
+💃 Bharatanatyam · 🎶 Music · 🌿 Nature · 📚 Learning
 
 <br/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Prince-Shivaram/Prince-Shivaram/master/hello.gif" width="60" alt="Hello"/>
+<img src="https://raw.githubusercontent.com/Prince-Shivaram/Prince-Shivaram/master/hello.gif" width="55" alt="Hello"/>
 
 <br/>
 
